@@ -1,9 +1,12 @@
 # JavaScript Projects
 This will be a collection of projects that I do at The Tech Academy as I learn JavaScript.
 ## Projects
-*[Pizza Menu]()
-*[Tic-Tac-Toe Game]()
-*[Basic Calculator]()
+* [Personal Portfolio](http://www.tntien.com/)
+* [Pizza Menu](https://github.com/TnTien/JavaScript-Projects/tree/master/Pizza_Project)
+* [Tic-Tac-Toe Game](https://github.com/TnTien/JavaScript-Projects/tree/master/TicTacToe)
+* [Basic Calculator](https://github.com/TnTien/JavaScript-Projects/tree/master/Basic%20Calculator)
+###Personal Portfolio
+This site displays the skills I have using HTML, CSS, and JavaScript.
 ### Pizza Menu
 This Project is a menu used to orer pizza with a various selction of toppings. It then takes the input information and calculates a price for the order.
 ### Tic-Tac-Toe Game
